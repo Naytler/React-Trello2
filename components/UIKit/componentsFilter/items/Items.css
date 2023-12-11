@@ -1,0 +1,7 @@
+.items__goods {
+  box-sizing: border-box;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-right: 1.3rem;
+}
